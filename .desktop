@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=0.3.0
+Name=LARA
+Comment=The LARA process editor
+Exec=lara.py
+Icon=/usr/share/pixmaps/python.xpm
+Path=/mnt/lair/data/source/projects/science/LARA/lara
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Utility;Application;

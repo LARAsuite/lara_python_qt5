@@ -30,6 +30,10 @@ var/
 *.manifest
 *.spec
 
+# sqlite database
+*.sqlite
+*.sqlite3
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
@@ -52,6 +56,7 @@ coverage.xml
 # Django stuff:
 *.log
 local_settings.py
+migrations/
 
 # Flask stuff:
 instance/
